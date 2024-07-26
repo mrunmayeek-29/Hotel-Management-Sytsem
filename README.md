@@ -27,10 +27,17 @@ If credentails entered are not correct then you will be informed about that fact
 
 ![Login](https://github.com/user-attachments/assets/886bc9e1-3133-43db-90ef-e1e4ccfa86b4)
 
-#Hotel status
-After successful login, you will be welcomed by appropriate messeage in right upper corner.The Dashboard page shows up.
+
+# After successful login :
+you will be welcomed by appropriate messeage in right upper corner.The hotel management system window shows up. It contains two menus first one HOTEL MANAGEMENT and second one is 
 
 ![Main page](https://github.com/user-attachments/assets/e25425c9-5f99-4c4d-83b2-0103abd3b2fd)
+
+
+
+
+
+
 
 
 
