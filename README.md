@@ -27,5 +27,7 @@ If credentails entered are not correct then you will be informed about that fact
 
 ![Login](https://github.com/user-attachments/assets/886bc9e1-3133-43db-90ef-e1e4ccfa86b4)
 
+#Hotel status
+After successful login, you will be welcomed by appropriate messeage in right upper corner.The Dashboard page shows up.
 
 
