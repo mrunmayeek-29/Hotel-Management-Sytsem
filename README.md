@@ -32,9 +32,21 @@ you will be welcomed by appropriate messeage in right upper corner.The hotel man
 
 ![Main page](https://github.com/user-attachments/assets/e25425c9-5f99-4c4d-83b2-0103abd3b2fd)
 
-#First Menu-ADMIN :
+#First Menu- ADMIN :
 The Admin menu in a hotel management system typically provides access to various administrative and management functions.
 In this menu, admin can add the employee,rooms and drivers.
+
+![Add_Emp_Details](https://github.com/user-attachments/assets/22e3428e-dd6f-4886-8521-350729c72140)
+
+![Add_Rooms](https://github.com/user-attachments/assets/8a12c504-002d-4954-a8c5-d3d6be500b89)
+
+![Add_Drivers](https://github.com/user-attachments/assets/2a22d3d8-d173-4d78-b9a7-585e0066e83e)
+
+#Second Menu- HOTEL MANAGEMENT : 
+The Hotel Management menu includes hotel reception and it involves designing a user interface that allows the receptionist to manage various tasks such as checking in guests, making reservations, managing room assignments, handling billing, and more. Below is an example of how a hotel reception menu could be organized in a Java-based application using JavaFX for the GUI.
+
+
+
 
 
 
