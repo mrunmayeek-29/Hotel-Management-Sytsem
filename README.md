@@ -45,6 +45,8 @@ In this menu, admin can add the employee,rooms and drivers.
 # Second Menu- HOTEL MANAGEMENT : 
 The Hotel Management menu includes hotel reception and which involves a user interface that allows the receptionist to manage various tasks such as new customer form, all employee info, customer info, manager info, check out, update check status, update room status, pick up service, search room and log out.
 
+![Hotel_Reception](https://github.com/user-attachments/assets/6b62c772-683d-4dee-994c-24046dd86716)
+
 
 
 
