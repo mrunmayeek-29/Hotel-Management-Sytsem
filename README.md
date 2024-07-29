@@ -25,8 +25,7 @@ This project was developed to practice my Java skills.
 The application starts with Login page. You have to be registered user to use the program.
 If credentails entered are not correct then you will be informed about that fact.
 
-![Login](https://github.com/user-attachments/assets/886bc9e1-3133-43db-90ef-e1e4ccfa86b4)
-
+![Login](https://github.com/user-attachments/assets/56cc2725-6913-4709-a783-477069cf662b)
 
 # After successful login :
 you will be welcomed by appropriate messeage in right upper corner.The hotel management system window shows up. It contains two menus first one HOTEL MANAGEMENT and second one is 
