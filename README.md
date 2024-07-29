@@ -28,9 +28,15 @@ If credentails entered are not correct then you will be informed about that fact
 ![Login](https://github.com/user-attachments/assets/56cc2725-6913-4709-a783-477069cf662b)
 
 # After successful login :
-you will be welcomed by appropriate messeage in right upper corner.The hotel management system window shows up. It contains two menus first one HOTEL MANAGEMENT and second one is 
+you will be welcomed by appropriate messeage in right upper corner.The hotel management system window shows up. It contains two menus first one HOTEL MANAGEMENT and second one is ADMIN 
 
 ![Main page](https://github.com/user-attachments/assets/e25425c9-5f99-4c4d-83b2-0103abd3b2fd)
+
+#First Menu-ADMIN :
+The Admin menu in a hotel management system typically provides access to various administrative and management functions.
+In this menu, admin can add the employee,rooms and drivers.
+
+
 
 
 
